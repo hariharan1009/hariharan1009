@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Hari from Tamilnadu<br><br>- 🔭 I’m studing in KRCT(B.E)<br>- 📚 I'm currently learning DSA<br>- ⚡ i'm Inttested in CyberSecurity</p>
+<p align="left">I'm Hari from Tamilnadu<br><br>- 🔭 I’m studing in KRCT(B.E)<br>- 📚 I'm currently learning DSA<br>- 
 
 ###
 
