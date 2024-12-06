@@ -26,7 +26,7 @@
 ### **[MockMate](https://mock-mate-ai-interview-simulator.vercel.app)** | [GitHub](https://github.com/hariharan1009/mockmate)
 
 📌 AI Mock Interview Simulator.
-✔ Dynamic Q&A based on resumes  
+✔ Dynamic Q&A based on resumes.  
 ✔ Code evaluation & performance analytics
 
 ### **[Helios](https://github.com/hariharan1009/helios)**
