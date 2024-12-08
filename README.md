@@ -25,7 +25,7 @@
 
 ### **[MockMate](https://mock-mate-ai-interview-simulator.vercel.app)** | [GitHub](https://github.com/hariharan1009/mockmate)
 
-📌 AI Mock Interview Simulator (Next.js, Clerk, Prisma)  
+📌 AI Mock Interview Simulator.
 ✔ Dynamic Q&A based on resumes  
 ✔ Code evaluation & performance analytics
 
