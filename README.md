@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Hariharan VM👀**
 
 🚀 **Full-Stack Developer** | **Problem Solver Enthusiast** | **Hackathon Winner**  
- A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create Something amazing together!
+ A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create something amazing together!
 
 ---
 
@@ -20,8 +20,8 @@
 ### **[NextStep](https://nextstep-olive.vercel.app)** | [GitHub](https://github.com/hariharan1009/nextstep)
 
 📌 AI-Powered Career Navigator (Next.js, TypeScript, PostgreSQL)  
-✔ Resume analyzer + job description comparison  
-✔ Career path generator & AI chatbot
+✔ Resume analyzer + job description comparison.
+✔ Career path generator & AI chatbot.
 
 ### **[MockMate](https://mock-mate-ai-interview-simulator.vercel.app)** | [GitHub](https://github.com/hariharan1009/mockmate)
 
