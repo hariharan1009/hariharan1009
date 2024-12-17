@@ -1,5 +1,3 @@
-
-
 <div align="center">
     <a href="https://www.linkedin.com/in/hari-haran-10sep2004/" target="_blank">
 
