@@ -49,7 +49,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=Hariharan1009" />
 </div>
 
