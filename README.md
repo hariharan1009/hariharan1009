@@ -15,7 +15,7 @@
 
 ###
 
-<h1 align="center">Wellcome coders👋</h1>
+<h1 align="center">Welcome coders👋</h1>
 
 ###
 
