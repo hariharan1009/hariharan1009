@@ -32,3 +32,8 @@ I'm **Hariharan V M**, a passionate developer with a knack for solving complex p
 </a>
 
 
+## GitHub Activity
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+
+
