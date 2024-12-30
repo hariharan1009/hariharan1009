@@ -31,9 +31,3 @@ I'm **Hariharan V M**, a passionate developer with a knack for solving complex p
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20" /> 
 </a>
 
-
-## GitHub Activity
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-
-
