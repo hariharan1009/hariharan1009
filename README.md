@@ -4,7 +4,7 @@ I'm **Hariharan V M**, a passionate developer with a knack for solving complex p
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=java,c,py,django,js,html,css&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,py,nextjs,js,html,css&perline=8)](https://skillicons.dev)
 
 ## GitHub Stats
 <div align="center">
@@ -31,4 +31,3 @@ I'm **Hariharan V M**, a passionate developer with a knack for solving complex p
 <a href="https://wa.me/8946020893" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20" /> 
 </a>
-
