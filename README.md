@@ -11,7 +11,7 @@ I'm **Hariharan V M**, a passionate developer with a knack for solving complex p
 </a>
   <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <a href="https://github.com/hariharan1009/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+    [![GitHub Streak](https://streak-stats.demolab.com?user=hariharan1009&short_numbers=true)](https://git.io/streak-stats)
   </a>
 
 </div>
