@@ -13,7 +13,9 @@ I'm **Hariharan V M**, a passionate developer with a knack for solving complex p
   <a href="https://github.com/hariharan1009/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </a>
+
 </div>
+
 ## Connect with Me
 <a href="https://leetcode.com/u/hari10haran/" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="20" /> 
