@@ -1,7 +1,7 @@
 ## Hi there! 👋✨
 I'm **Hariharan V M**, a passionate developer with a knack for solving complex problems. I thrive on coding challenges and love creating efficient solutions that make life easier. Let's connect and collaborate!
 ## Skills & Technologies
-
+🧑‍💻
 
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,nextjs,js,html,css&perline=8)](https://skillicons.dev)
