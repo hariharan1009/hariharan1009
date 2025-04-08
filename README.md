@@ -1,7 +1,8 @@
 ## Hi there! 👋
-I'm **Hariharan V M**, a passionate developer with a knack for solving complex problems. I thrive on coding challenges and love creating efficient solutions that make life easier. Let's connect and collaborate!
-## Skills & Technologies🧑‍💻
 
+I'm **Hariharan V M**, a passionate developer with a knack for solving complex problems. I thrive on coding challenges and love creating efficient solutions that make life easier. Let's connect and collaborate!
+
+## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=java,c,py,nextjs,js,html,css&perline=8)](https://skillicons.dev)
 
@@ -10,11 +11,11 @@ I'm **Hariharan V M**, a passionate developer with a knack for solving complex p
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=hariharan1009&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </a>
+
   <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <a href="https://github.com/hariharan1009/github-readme-stats">
-    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
   </a>
-
 </div>
 
 ## Connect with Me
