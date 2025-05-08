@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Hariharan VM👀**
 
 🚀 **Full-Stack Developer** | **Problem Solver Enthusiast** | **Hackathon Winner**  
- A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create something amazing together!
+ A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create Something amazing together!
 
 ---
 
@@ -41,7 +41,6 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariharan1009)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
