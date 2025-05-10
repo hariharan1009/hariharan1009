@@ -33,16 +33,10 @@
 
 </div>
 
----
+## 🌐 Connect with Me
 
-## 🤝 Let's Connect
+[![LeetCode](https://img.shields.io/badge/LeetCode-hari10haran-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hari10haran/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hari-haran-vm/)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/fan__of__life/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp)](https://wa.me/8946020893)
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-haran-10sep2004/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/hari10haran/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8946020893)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-
-</div>
