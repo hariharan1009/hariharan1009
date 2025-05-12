@@ -19,9 +19,7 @@
 <div align="center">
 
 ✨ **Streak Stats**  
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=hariharan1009&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</a>  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariharan1009&theme=radical)](https://git.io/streak-stats)
 
 💡 **Overall Contributions**  
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />  
