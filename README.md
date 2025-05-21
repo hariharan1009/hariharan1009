@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Hariharan VM**!
 
 🚀 **Full-Stack Developer** | **Problem Solver Enthusiast** | **Hackathon Winner**  
- A Passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create something amazing together!
+ A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create something amazing together!
 
 ---
 
