@@ -28,7 +28,7 @@
 [![hariharan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)</div>
 
 ## 🌐 Connect with Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-five-rust-97.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://ww.hariharan.software)
 [![LeetCode](https://img.shields.io/badge/LeetCode-hari10haran-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/hari10haran/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hari-haran-vm/)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram)](https://www.instagram.com/fan__of__life/)
