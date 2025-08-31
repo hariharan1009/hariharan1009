@@ -17,7 +17,7 @@
 
 ## 🚀 Featured Projects
 
-### **[NextStep](https://nextstep-olive.vercel.app)** | [GitHub](https://github.com/hariharan1009/nextstep)
+### **[Next Step](https://nextstep-olive.vercel.app)** | [GitHub](https://github.com/hariharan1009/nextstep)
 
 📌 AI-Powered Career Navigator (Next.js, TypeScript, PostgreSQL)  
 ✔ Resume analyzer + job description comparison  
