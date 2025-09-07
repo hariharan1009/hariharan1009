@@ -1,64 +1,67 @@
-# 👋 Hey there, I'm **Hariharan V M**!  
+# 👋 Hey there, I'm **Hariharan V M**!
 
 🚀 **Full-Stack Developer** | **Problem Solver Enthusiast** | **Hackathon Winner**  
- A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions, and exploring cutting-edge technologies. Let's connect and create something amazing together!   
+ A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions, and exploring cutting-edge technologies . Let's connect and create something amazing together!
 
 ---
 
-
-## 🔥 Tech Stack  
+## 🔥 Tech Stack
 
 **Languages & Frameworks:**  
-[![Skills](https://skillicons.dev/icons?i=java,py,c,nextjs,react,ts,js,html,css)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=java,py,c,nextjs,react,ts,js,html,css)](https://skillicons.dev)
 
 **Databases & Tools:**  
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,prisma,git,github,vscode)](https://skillicons.dev)  
+[![Skills](https://skillicons.dev/icons?i=postgres,mysql,prisma,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects
 
-### **[NextStep](https://nextstep-olive.vercel.app)** | [GitHub](https://github.com/hariharan1009/nextstep)  
+### **[NextStep](https://nextstep-olive.vercel.app)** | [GitHub](https://github.com/hariharan1009/nextstep)
+
 📌 AI-Powered Career Navigator (Next.js, TypeScript, PostgreSQL)  
 ✔ Resume analyzer + job description comparison  
-✔ Career path generator & AI chatbot  
+✔ Career path generator & AI chatbot
 
-### **[MockMate](https://mock-mate-ai-interview-simulator.vercel.app)** | [GitHub](https://github.com/hariharan1009/mockmate)  
+### **[MockMate](https://mock-mate-ai-interview-simulator.vercel.app)** | [GitHub](https://github.com/hariharan1009/mockmate)
+
 📌 AI Mock Interview Simulator (Next.js, Clerk, Prisma)  
 ✔ Dynamic Q&A based on resumes  
-✔ Code evaluation & performance analytics  
+✔ Code evaluation & performance analytics
 
-### **[Helios](https://github.com/hariharan1009/helios)**  
+### **[Helios](https://github.com/hariharan1009/helios)**
+
 📌 Solar Incentive Tracker (Next.js, Web Scraping)  
-✔ Aggregates government subsidies  
+✔ Aggregates government subsidies
 
-[**View All Projects →**](https://www.hariharan.software)  
+[**View All Projects →**](https://www.hariharan.software)
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
 
-<div align="center">  
+<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" width="48%" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hariharan1009)  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hariharan1009)
 
-</div>  
-
----
-
-## 🏆 Achievements  
-- 🥇 **Winner** of INNOGEN'25 Mega Hackathon (₹10,000 prize)  
-- 🏅 **Finalist** in Nexathon (VIT Chennai)  
-- 📜 **NPTEL Elite Certification** in IoT (IIT Kharagpur)  
+</div>
 
 ---
 
-## 🌐 Connect With Me  
+## 🏆 Achievements
 
-<div align="left">  
+- 🥇 **Winner** of INNOGEN'25 Mega Hackathon (₹10,000 prize)
+- 🏅 **Finalist** in Nexathon (VIT Chennai)
+- 📜 **NPTEL Elite Certification** in IoT (IIT Kharagpur)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="left">
 
 <a href="https://www.hariharan.software" target="_blank">
   <img src="https://img.icons8.com/fluency/48/domain.png" alt="Portfolio" width="30" />
@@ -77,6 +80,6 @@
 </a>  
 <a href="https://github.com/hariharan1009" target="_blank">
   <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="30" />
-</a>  
+</a>
 
-</div>  
+</div>
