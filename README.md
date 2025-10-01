@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariharan1009)](https://git.io/streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com?user=hariharan1009)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" width="48%" />
 
