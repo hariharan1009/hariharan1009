@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Hariharan VM**
 
 🚀 **Full-Stack Developer** | **Problem Solver Enthusiast** | **Hackathon Winner**  
- A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create something amazing together!
+ A passionate developer who thrives on solving real-world problems through code. I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create something amazing together!!
 
 ---
 
@@ -46,8 +46,6 @@
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hariharan1009)
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" width="48%" />
-
-
 
 </div>
 
