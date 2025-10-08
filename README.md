@@ -5,7 +5,7 @@
 
 ---
 
-## 🔥 Tech Stacks
+## 🔥 Tech Stack
 
 **Languages & Frameworks:**  
 [![Skills](https://skillicons.dev/icons?i=java,py,c,nextjs,react,ts,js,html,css)](https://skillicons.dev)
