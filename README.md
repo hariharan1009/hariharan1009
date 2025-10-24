@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariharan1009&theme=radical&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariharan1009&theme=radical&short_numbers=true) ](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hariharan1009)
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
