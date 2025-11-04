@@ -12,7 +12,6 @@
 
 **Databases & Tools:**  
 [![Skills](https://skillicons.dev/icons?i=postgres,mysql,prisma,git,github,vscode)](https://skillicons.dev)
-
 ---
 
 ## 🚀 Featured Projects
