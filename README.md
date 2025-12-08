@@ -9,33 +9,10 @@
 ## 🔥 Tech Stack
 
 **Languages & Frameworks:**  
-[![Skills](https://skillicons.dev/icons?i=java,py,c,nextjs,react,ts,js,html,css)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
 
 **Databases & Tools:**  
-[![Skills](https://skillicons.dev/icons?i=postgres,mysql,prisma,git,github,vscode)](https://skillicons.dev)
----
-
-## 🚀 Featured Projects
-
-### **[NextStep](https://nextstep-olive.vercel.app)** | [GitHub](https://github.com/hariharan1009/nextstep)
-
-📌 AI-Powered Career Navigator (Next.js, TypeScript, PostgreSQL)  
-✔ Resume analyzer + job description comparison.
-✔ Career path generator & AI chatbot.
-
-### **[MockMate](https://mock-mate-ai-interview-simulator.vercel.app)** | [GitHub](https://github.com/hariharan1009/mockmate)
-
-📌 AI Mock Interview Simulator.
-✔ Dynamic Q&A based on resumes.  
-✔ Code evaluation & performance analytics
-
-### **[Helios](https://github.com/hariharan1009/helios)**
-
-📌 Solar Incentive Tracker (Next.js, Web Scraping)  
-✔ Aggregates government subsidies
-
-[**View All Projects →**](https://www.hariharan.software)
-
+[![Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode)](https://skillicons.dev)
 ---
 
 ## 📈 GitHub Stats
