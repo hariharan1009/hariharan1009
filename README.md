@@ -17,12 +17,12 @@
 
 ## 📈 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical)
 
+![GitHub steak ](https://github-readme-stats-fast.vercel.app/api/streak?username=hariharan1009&theme=radical)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hariharan1009)
-<img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-</div>
 
 ---
 
