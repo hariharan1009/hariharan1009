@@ -17,9 +17,6 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-streak-generator-moranr123-production.up.railway.app/api/streak/card/hariharan1009 ?theme=ef4444&hideAvatar=true&_t=1768658685417" alt="GitHub Streak Card" />
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hariharan1009)
 <img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
