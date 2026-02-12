@@ -13,7 +13,7 @@
 [![Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
 
 **Databases & Tools:**  
-[![Skills](https://skillicons.dev/icons?i=,mysql,git,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode)](https://skillicons.dev)
 
 ---
 
