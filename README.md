@@ -3,6 +3,8 @@
 🚀 **Full-Stack Developer** | **Problem Solver Enthusiast** | **Hackathon Winner**  
  A passionate developer who thrives on solving real-world problems through code.I love tackling challenges, building efficient solutions,and exploring cutting-edge technologies. Let's connect and create something amazing together.
 
+
+
 ---
 
 ## 🔥 Tech Stack
@@ -11,20 +13,18 @@
 [![Skills](https://skillicons.dev/icons?i=java,js,html,css)](https://skillicons.dev)
 
 **Databases & Tools:**  
-[![Skills](https://skillicons.dev/icons?i=,mysql,git,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hariharan1009&theme=radical)](https://git.io/streak-stats)
+![GitHub steak ](https://github-readme-stats-fast.vercel.app/api/streak?username=hariharan1009&theme=radical)
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/hariharan1009)
-<img src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true" width="48%" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" width="48%" />
 
-</div>
 
 ---
 
