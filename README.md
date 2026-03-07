@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Hariharan V.M**
+# 👋 Hey there, I'm **Hariharan VM**
 
 
 🚀 **Full-Stack Developer** | **Problem Solver Enthusiast** | **Hackathon Winner**  
