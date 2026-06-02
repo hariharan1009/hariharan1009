@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey there, I'm Hariharan VM</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9E4C98&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Problem+Solver+Enthusiast;Hackathon+Winner;Data+Engine+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9E4C98&center=true&vCenter=true&width=500&lines=Code.+Build.+Innovate.;Problem+Solver+Enthusiast;Hackathon+Winner;Data+Engine+Explorer" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-I am a passionate **Full-Stack Developer** and **Data Solutions Enthusiast** who thrives on transforming complex problems into elegant, scalable code. With a proven track record in fast-paced hackathons and large-scale tech leadership, I love bridging the gap between robust backend logic and insightful data analytics.
+I live by a simple philosophy: **Code. Build. Innovate.** As a developer and data solutions enthusiast, I thrive on transforming complex, real-world problems into elegant, scalable software. With a proven track record in fast-paced hackathons and large-scale tech leadership, I love bridging the gap between robust backend logic and insightful data analytics.
 
 - 🏆 **First Place Winner** at the INNOGEN'25 Mega Hackathon.
 - ⚡ **Tech Stack Focus:** Java Ecosystem, Full-Stack Web, and Advanced Data Engineering (Snowflake + SQL).
@@ -68,13 +68,14 @@ I am a passionate **Full-Stack Developer** and **Data Solutions Enthusiast** who
 
 ### 🏆 Achievements & Certifications
 
-*   🥇 **1st Place** – INNOGEN'25 Mega Hackathon _(Earned ₹10,000 cash prize)_
-*   🏅 **Finalist** – Nexathon @ VIT Chennai
-*   📜 **Java Full Stack Expert** – Wipro TalentNext
-*   📜 **Data & BI Specialization (Snowflake + PL/SQL + Power BI)** – GUVI x HCL
-*   🎯 **Overall Coordinator** – FESTRONIX _(Orchestrated logistics for 100+ volunteers & 1,000+ attendees)_
+* 🥇 **1st Place** – INNOGEN'25 Mega Hackathon _(Earned ₹10,000 cash prize)_
+* 🏅 **Finalist** – Nexathon @ VIT Chennai
+* 📜 **Java Full Stack Expert** – Wipro TalentNext
+* 📜 **Data & BI Specialization (Snowflake + PL/SQL + Power BI)** – GUVI x HCL
+* 🎯 **Overall Coordinator** – FESTRONIX _(Orchestrated logistics for 100+ volunteers & 1,000+ attendees)_
 
 ---
+
 ### 🤝 Let's Connect & Collaborate
 
 <p align="center">
@@ -96,7 +97,11 @@ I am a passionate **Full-Stack Developer** and **Data Solutions Enthusiast** who
   <a href="mailto:mdhari707@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
   </a>
-
+  <a href="https://wa.me/918946020893" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
+  </a>
 </p>
 
 <br />
+
+<p align="center">⭐ <b>"Code. Build. Innovate. Repeat."</b> ⭐</p>
