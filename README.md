@@ -97,9 +97,7 @@ I live by a simple philosophy: **Code. Build. Innovate.** As a developer and dat
   <a href="mailto:mdhari707@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30"/>
   </a>
-  <a href="https://wa.me/918946020893" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30"/>
-  </a>
+
 </p>
 
 <br />
