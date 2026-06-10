@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Hariharan VM</h1>
+<h1 align="center">👋 Hey there I'm Hariharan VM</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9E4C98&center=true&vCenter=true&width=500&lines=Code.+Build.+Innovate.;Problem+Solver+Enthusiast;Hackathon+Winner;Data+Engine+Explorer" alt="Typing SVG" />
 </p>
