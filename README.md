@@ -1,13 +1,4 @@
 <h1 align="center">👋 Hey there I'm Hariharan VM</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9E4C98&center=true&vCenter=true&width=500&lines=Code.+Build.+Innovate.;Problem+Solver+Enthusiast;Hackathon+Winner;Data+Engine+Explorer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://hariharan-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-⚡-blueviolet?style=flat-square" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/hari-haran-vm"><img src="https://img.shields.io/badge/LinkedIn-🤝-blue?style=flat-square" alt="LinkedIn"></a>
-  <a href="https://leetcode.com/u/hari10haran/"><img src="https://img.shields.io/badge/LeetCode-💻-orange?style=flat-square" alt="LeetCode"></a>
-</p>
 
 ---
 
