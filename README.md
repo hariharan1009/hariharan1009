@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey there I'm Hariharan VM</h1>
 
----
 
 ### 🚀 About Me
 
