@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there I'm Hariharan V.M</h1>
 
 
-### 🚀 About Me
+### 🚀About Me
 
 I live by a simple philosophy: **Code. Build. Innovate.** As a developer and data solutions enthusiast, I thrive on transforming complex, real-world problems into elegant, scalable software. With a proven track record in fast-paced hackathons and large-scale tech leadership, I love bridging the gap between robust backend logic and insightful data analytics.
 
