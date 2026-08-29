@@ -69,23 +69,11 @@ I live by a simple philosophy: **Code. Build. Innovate.** As a working developer
 
 ### 📈 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/hariharan1009">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hariharan1009&show_icons=true&theme=radical&hide_border=true&hide_contribs=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/hariharan1009">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariharan1009&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=hariharan1009&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=hariharan1009&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=hariharan1009&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<br />
-
-<div align="center">
-  <a href="https://github.com/hariharan1009">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=hariharan1009&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/hariharan1009">
-    <img height="160em" src="https://github-readme-activity-graph.vercel.app/graph?username=hariharan1009&bg_color=141321&color=fe428e&line=f9a8d4&point=fe428e&area=true&hide_border=true" alt="Activity Graph" />
   </a>
 </div>
 
