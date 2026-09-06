@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 👋 Hello,I'm Hariharan V.M
+  # 👋 Hello,I'm Hariharan V M
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=29B5E8&center=true&vCenter=true&width=500&lines=Full-Stack+Java+Developer;Data+Engineering+Enthusiast;Building+Scalable+Solutions;Code.+Build.+Innovate." alt="Typing SVG" />
